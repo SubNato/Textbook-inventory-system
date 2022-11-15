@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1540623429 source:c:\users\ralph\documents\computer science\programming 1\programming project\programmer world\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1540619829 source:c:\users\ralph\documents\computer science\1st year\semester 1\programming 1\programming project\programmer world\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
